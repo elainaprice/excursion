@@ -1,9 +1,10 @@
-html {
+body {
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
 
-h1 {
+.main-header {
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -16,7 +17,7 @@ p,a {
   text-align: center;
 }
 
-h2 {
+.travel-guide, .coming-soon {
   color: white;
   font-weight: 300;
   font-size: 42px;
