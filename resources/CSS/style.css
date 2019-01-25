@@ -5,15 +5,12 @@ body {
   text-align: center;
 }
 
+/*headers*/
+
 .main-header {
   font-weight: normal;
   font-size: 50px;
   color: white;
-}
-
-.link {
-  color: aquamarine;
-  font-size: 16px;
 }
 
 .travel-guide, .coming-soon {
@@ -25,6 +22,13 @@ body {
 h4 {
  color: gray;
  font-size: 21px;
+}
+
+/*links*/
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 .copyright {
